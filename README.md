@@ -1,7 +1,6 @@
 # rsda
 人事档案管理
-make in chenggong
-<<<<<<< HEAD
+make in chenggongD
 Creating a new branch  is quick & simple.
 =======
 Creating a new branch  is quick AND simple.
