@@ -1,5 +1,5 @@
 # rsda
 人事档案管理
 make in chenggong
-Creating a new branch  is quick.
+Creating a new branch  is quick AND simple.
 g
